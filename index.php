@@ -1,5 +1,5 @@
 <?php
-    require_once __Dir__ . "./classes/Movie.php";
+    require_once __Dir__ . "/classes/Movie.php";
     $film = [];
     $film[] = new Movie("Dune", "Sci-fi", 2021, "english");
     $film[] = new Movie("Arrival", "Thriller ", 2016, "english");
